@@ -1,5 +1,9 @@
 # Basic Nested Forms
 
+## Summary
+
+This lab discusses basic nested forms. The rest of the summary. Lorem ipsum dolor sit amet.
+
 ## Objectives
 
 1.  Construct a nested `params` hash with data about the primary object and a
